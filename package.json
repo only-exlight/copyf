@@ -1,0 +1,16 @@
+{
+  "name": "teleport",
+  "version": "1.0.0",
+  "description": "This util create for displacement of certain files from catalogs and subcatalogs.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [
+    "displacement",
+    "util",
+    "files"
+  ],
+  "author": "eXceptiOn",
+  "license": "ISC"
+}
